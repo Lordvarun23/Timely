@@ -1,4 +1,4 @@
-# DataGenieHackathon
+# Timely
 
 ## Problem Statement:
 Build a classification model from the sample data provided to predict which
